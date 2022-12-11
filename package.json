@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-graphql": "^0.9.0",
     "graphql": "^14.4.2",
     "jsonwebtoken": "^8.5.1",
